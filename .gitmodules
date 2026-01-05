@@ -1,0 +1,3 @@
+[submodule "algorithms/TheAlgorithms/PHP"]
+	path = algorithms/TheAlgorithms/PHP
+	url = https://github.com/TheAlgorithms/PHP.git
